@@ -20,3 +20,14 @@ public class Data {
 		state = 1;
 	}
 }
+   /* if only Tic-Tak, then:
+   
+   public void Tic(){
+        System.out.print("Tic-");
+        state=2;
+    }
+    public void Tak(){
+        System.out.println("Tak");
+        state=1;
+    }*/
+
